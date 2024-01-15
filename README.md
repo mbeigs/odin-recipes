@@ -1,0 +1,1 @@
+This project is to practice the different HTML commands.
