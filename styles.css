@@ -1,0 +1,26 @@
+/* styles.css */
+
+* {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    color: peru;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    color:coral;
+    text-align: center;
+}
+
+.choices {
+    font-size: 24px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
